@@ -1,0 +1,19 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: orange;
+}
+
+h2 {
+    
+    color: red;
+}
+
+p {
+    background-color: lightblue;
+    text-align: center;
+    border: black;
+    border-style: solid;
+}
