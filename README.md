@@ -1,5 +1,3 @@
-# school_projects
+# javascript_projects
 
-Projects from my time learning software development in college.
-
-These projects focus on Java, Python, and JavaScript.
+JavaScript projects from my time learning software development in college.
